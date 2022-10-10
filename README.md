@@ -13,3 +13,5 @@ This repository is for low-level Programming and includes the following director
 11)  0x0A. C - argc, argv
 12) 0x0B-malloc_free
 13) 0x0C-more_malloc_free
+14) 0x0D-preprocessor
+15)  0x0E. C - Structures, typedef
