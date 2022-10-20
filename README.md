@@ -17,3 +17,4 @@ This repository is for low-level Programming and includes the following director
 15)  0x0E. C - Structures, typedef
 16) 0x0F-function_pointers
 17) 0x10-variadic_functions
+18) 0x12-singly_linked_lists
