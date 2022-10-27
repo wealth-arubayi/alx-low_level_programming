@@ -37,3 +37,5 @@ This repository is for low-level Programming and includes the following director
 18) 0x12-singly_linked_lists
 
 19) 0x13-more_singly_linked_lists
+
+20) 0x14-bit_manipulation
