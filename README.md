@@ -41,3 +41,5 @@ This repository is for low-level Programming and includes the following director
 20) 0x14-bit_manipulation
 
 21) 0x15-file_io
+
+22) 0x18-dynamic_libraries
