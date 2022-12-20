@@ -42,6 +42,6 @@ This repository is for low-level Programming and includes the following director
 
 21) 0x15-file_io
 
-22) 0x18-dynamic_libraries
+22) 0x17-doubly_linked_lists
 
-23) 0x17-doubly_linked_lists
+23) 0x18-dynamic_libraries
