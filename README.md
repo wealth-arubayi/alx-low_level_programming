@@ -45,3 +45,5 @@ This repository is for low-level Programming and includes the following director
 22) 0x17-doubly_linked_lists
 
 23) 0x18-dynamic_libraries
+
+24) 0x1A-hash_tables
